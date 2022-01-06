@@ -7,3 +7,6 @@
                                                  
 
 # AK's ENTR-451 Repository
+
+(c) 2022 Me
+
